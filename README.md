@@ -56,11 +56,11 @@ Profit Margin = ([Revenue] - [Cost]) / [Revenue] * 100
 
 # Visualizations:
 
-Bar Chart: Sales by region and product category.
-Line Chart: Monthly revenue trends.
-Pie Chart: Profits by Each Segment.
-KPI Cards: Total Revenue, Sales, and Profit Margin.
-Map Visualization: Regional sales distribution.
+  Bar Chart: Sales by region and product category.
+  Line Chart: Monthly revenue trends.
+  Pie Chart: Profits by Each Segment.
+  KPI Cards: Total Revenue, Sales, and Profit Margin.
+  Map Visualization: Regional sales distribution.
 
 
 
@@ -81,11 +81,11 @@ Publish the report to Power BI Service for collaborative access and real-time up
 
 # Dashboard Features
 
-Dynamic Filters: Analyze data by region, product, and customer demographics.
-Interactive Visualizations: Drill down into specific metrics for a deeper understanding.
-Key Metrics Overview: Display critical KPIs like sales growth, revenue, and profit margin.
-Time Series Analysis: Track sales trends over time to identify seasonal patterns.
-Regional Performance: Use map visuals to assess regional contributions.
+  1. Dynamic Filters: Analyze data by region, product, and customer demographics.
+  2. Interactive Visualizations: Drill down into specific metrics for a deeper understanding.
+  3. Key Metrics Overview: Display critical KPIs like sales growth, revenue, and profit margin.
+  4. Time Series Analysis: Track sales trends over time to identify seasonal patterns.
+  5. Regional Performance: Use map visuals to assess regional contributions.
 
 # Conclusion
 
