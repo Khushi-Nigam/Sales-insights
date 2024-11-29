@@ -14,20 +14,22 @@ By leveraging this dashboard, decision-makers can identify opportunities for gro
 
 # Insights
 # [1] Total Sales and Revenue
-Total Revenue (Sales): $2.30M
-Units Sold: 38K
-Total Profit: $286.40K
+  Total Revenue (Sales): $2.30M
+  Units Sold: 38K
+  Total Profit: $286.40K
 These figures provide an overview of the organization’s sales performance and growth trends.
+Snap :
 
-![image](https://github.com/user-attachments/assets/ca9a0ad3-ef7b-474d-ba71-b737df77108b)
+![image](https://github.com/user-attachments/assets/80a5997a-f5b2-47b1-b49a-74d561fef54c)
+
 
 # [2] Regional Sales Performance (furniture)
-Central: $163M
-South: $117M
-East: $2.8M
-West: $2.52M
+  Central: $163M
+  South: $117M
+  East: $2.8M
+  West: $2.52M
 This breakdown helps identify high-performing and low-performing regions.
-
+![image](https://github.com/user-attachments/assets/ca9a0ad3-ef7b-474d-ba71-b737df77108b)
 # [3] Category and Subcategory Analysis 
 
 ![image](https://github.com/user-attachments/assets/29f9703a-18be-40c9-bab7-91f37b8f2dc1)
@@ -60,9 +62,7 @@ Pie Chart: Profits by Each Segment.
 KPI Cards: Total Revenue, Sales, and Profit Margin.
 Map Visualization: Regional sales distribution.
 
-Snap :
 
-![image](https://github.com/user-attachments/assets/80a5997a-f5b2-47b1-b49a-74d561fef54c)
 
 
 ## Filters and Interactivity:
