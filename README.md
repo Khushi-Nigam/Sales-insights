@@ -56,11 +56,11 @@ Profit Margin = ([Revenue] - [Cost]) / [Revenue] * 100
 
 # Visualizations:
 
-  Bar Chart: Sales by region and product category.
-  Line Chart: Monthly revenue trends.
-  Pie Chart: Profits by Each Segment.
-  KPI Cards: Total Revenue, Sales, and Profit Margin.
-  Map Visualization: Regional sales distribution.
+ - Bar Chart: Sales by region and product category.
+ - Line Chart: Monthly revenue trends.
+ - Pie Chart: Profits by Each Segment.
+ - KPI Cards: Total Revenue, Sales, and Profit Margin.
+ - Map Visualization: Regional sales distribution.
 
 
 
